@@ -1,4 +1,5 @@
 # vue-cashflow-app
+[![Personal-Cash-Flow1.png](https://i.postimg.cc/jStZSRZ0/Personal-Cash-Flow1.png)](https://postimg.cc/PPVm6sg2)
 
 ## Project setup
 ```
