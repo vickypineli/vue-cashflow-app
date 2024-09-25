@@ -8,7 +8,7 @@
           <input type="text" v-model="title" />
         </div>
         <div class="field">
-          <label>Monto</label>
+          <label>Cantidad</label>
           <input type="number" v-model="amount" />
         </div>
         <div class="field">
